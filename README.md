@@ -1,5 +1,4 @@
 # Motion Detector - OpenCv
-This motion detector is made with opencv.
 
 ## Table of Contents
 * [General Info](#general-information)
